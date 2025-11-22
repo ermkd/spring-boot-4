@@ -30,3 +30,5 @@ In src/main/java/com/boolment/demowebapp inside it we are going to create all th
 
 But here we are going to make this project as multiple functionlity so we will create a package for each functionlity inside it we are going to keep all the sub folder for entities, repositories, controllers, services, dtos.
 
+### Day 1. Homeage Page.
+In this demo we are going to create a homepage. We are just created a simple index page and controller to access the simple page and we are going to add the bootstrap to this index page. because we are going to use the bootstrap for our future pages.
